@@ -1,6 +1,11 @@
 # Master-Thesis
-Solving the Author Problem of “Dream of the Red Chamber” with the Writing Style Indicator以文風指標分析《紅樓夢》的作者爭議問題
-這是我的碩士論文，指導教授: 楊昌彪。
+
+
+英文題目："Solving the Author Problem of “Dream of the Red Chamber” with the Writing Style Indicator"
+
+中文題目：以文風指標分析《紅樓夢》的作者爭議問題
+
+指導教授：楊昌彪
 
 ### Thesis
 https://hdl.handle.net/11296/vvu95e
